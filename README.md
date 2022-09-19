@@ -4,4 +4,4 @@ Time series analysis. The cleanest setups, even for multiple time series, that I
 
 I couldn’t see improvement on plotly time series using seaborn, and for this reason I have focused exclusively on plotly. 
 
-Code runs directly from Github csv
+Code runs directly from Github csv - raw
